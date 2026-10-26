@@ -16,3 +16,4 @@ This directory contains basic shell scripting assignments.
 - `13-symbolic_link`: Creates a symbolic link named __ls__ to /bin/ls in the current working directory.
 - `15-lets_move`: Moves all files beginning with an uppercase letter to the directory /tmp/u.
 - `16-clean_emacs`: Deletes all files in the current working directory that end with the character ~.
+- `17-tree`: Creates the directory structure welcome/to/school in the current directory.
