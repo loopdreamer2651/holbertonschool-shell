@@ -14,3 +14,4 @@ This directory contains basic shell scripting assignments.
 - `11-lists`: Lists all files (including hidden ones) in the current directory, parent directory, and /boot directory in long format.
 -\'12-file_type\': Prints the file type of the file imafile in tmp
 - `13-symbolic_link`: Creates a symbolic link named __ls__ to /bin/ls in the current working directory.
+- `15-lets_move`: Moves all files beginning with an uppercase letter to the directory /tmp/u.
