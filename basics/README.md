@@ -15,3 +15,4 @@ This directory contains basic shell scripting assignments.
 -\'12-file_type\': Prints the file type of the file imafile in tmp
 - `13-symbolic_link`: Creates a symbolic link named __ls__ to /bin/ls in the current working directory.
 - `15-lets_move`: Moves all files beginning with an uppercase letter to the directory /tmp/u.
+- `16-clean_emacs`: Deletes all files in the current working directory that end with the character ~.
