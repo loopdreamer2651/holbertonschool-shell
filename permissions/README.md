@@ -1,1 +1,3 @@
-add 0-iam_betty
+# Shell Permissions
+
+- `0-iam_betty`: Switches the current user to the user betty.
