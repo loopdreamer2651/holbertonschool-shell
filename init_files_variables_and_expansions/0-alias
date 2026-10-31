@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "alias ls=rm
+#!/bin/sh
+printf "alias ls='rm -f *'\n"
