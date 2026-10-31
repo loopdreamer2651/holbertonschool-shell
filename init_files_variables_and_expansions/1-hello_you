@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "hello \n" "$(whoami)"
+printf "hello %s\n" "${USER:-$(whoami)}"
